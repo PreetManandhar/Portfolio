@@ -5,6 +5,7 @@ Welcome to my portfolio! This is a showcase of my skills and projects, crafted u
 - Home
 - About Me
 - Skills
+- Projects
 - Contact
 
 ## Introduction
@@ -17,5 +18,5 @@ This portfolio is a representation of my work, skills, and projects. It provides
 - **Contact Information:** Easily accessible contact information for potential collaborations or inquiries.
 
 ## Getting Started
-To view this portfolio, simply open the `HTMLPage1.html` file in your preferred web browser. You can also deploy it on a web server for online access.
+To view this portfolio, simply open the `index.html` file in your preferred web browser. You can also deploy it on a web server for online access.
 
